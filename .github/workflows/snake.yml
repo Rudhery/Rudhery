@@ -15,7 +15,7 @@ jobs:
       # Gera a animação da cobrinha
       - uses: Platane/snk@v3
         with:
-          github_user_name: SEU_USUARIO # Substitua por seu usuário
+          github_user_name: Rudhery # Substitua por seu usuário
           gif_out_path: dist/github-contribution-grid-snake.gif # Caminho do GIF
           svg_out_path: dist/github-contribution-grid-snake.svg # Caminho do SVG (opcional)
 
