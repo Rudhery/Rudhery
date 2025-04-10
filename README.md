@@ -30,10 +30,8 @@ Sou um entusiasta da tecnologia com 16 anos, apaixonado por desenvolvimento fron
 
 ## 📊 Minhas Estatísticas  
 <div align="center">
-
-  <img src="https://github-readme-stats-ffso-rudherys-projects.vercel.app/api?username=rudhery&count_private=true&show_icons=true&theme=dracula&title_color=ff69b4&border_color=000000" height="200" />
-<img src="https://github-readme-stats-ffso-rudherys-projects.vercel.app/api/top-langs?username=rudhery&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&title_color=ff69b4&border_color=000000&hide=css,html,scss,c%2B%2B,CMake" height="200" />
-
+  <img src="https://github-readme-stats-ffso-rudherys-projects.vercel.app/api?username=rudhery&count_private=true&show_icons=true&theme=dracula&title_color=ff69b4&border_color=000000" height="180" />
+  <img src="https://github-readme-stats-ffso-rudherys-projects.vercel.app/api/top-langs?username=rudhery&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&title_color=ff69b4&border_color=000000&hide=css,html,scss,c%2B%2B,CMake" height="180" />
 </div>
 
 
