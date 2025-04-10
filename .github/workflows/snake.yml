@@ -1,26 +1,32 @@
-name: Generate Snake Animation
+name: Generate snake animation
 
 on:
-  schedule: # Executa automaticamente a cada 12 horas
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # Permite executar manualmente
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      # Faz checkout do repositório
-      - uses: actions/checkout@v3
-
-      # Gera a animação da cobrinha
-      - uses: Platane/snk@v3
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Rudhery # Substitua por seu usuário
-          gif_out_path: dist/github-contribution-grid-snake.gif # Caminho do GIF
-          svg_out_path: dist/github-contribution-grid-snake.svg # Caminho do SVG (opcional)
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
 
-      # Envia os arquivos gerados para uma branch chamada "output"
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
