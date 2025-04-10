@@ -73,3 +73,4 @@ O projeto **Delivery Fácil** é uma plataforma completa de gestão de pedidos e
 👉 Vamos nos conectar? Me chame para bater um papo sobre tecnologia e desenvolvimento!  
 
 ---
+<img src="https://raw.githubusercontent.com/rudhery/rudhery/output/snake.svg" alt="Snake animation" />
