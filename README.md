@@ -15,7 +15,6 @@ Sou um entusiasta da tecnologia com 16 anos, apaixonado por desenvolvimento fron
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo"  />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
-
 </div>
 
 **Banco de Dados**  
@@ -63,3 +62,5 @@ Sou um entusiasta da tecnologia com 16 anos, apaixonado por desenvolvimento fron
 
 ---
 
+
+![Cobrinha](https://raw.githubusercontent.com/Rudhery/Rudhery/output/snake.svg)
