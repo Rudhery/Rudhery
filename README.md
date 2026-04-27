@@ -33,7 +33,7 @@ DevOps      Docker · Nginx · Git
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,dotnet,cs,flutter,dart,docker,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,flutter,dart,go,cs,dotnet,mysql,sqlite,docker,git,github,nginx&perline=8" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ DevOps      Docker · Nginx · Git
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-ffso-rudherys-projects.vercel.app/api?username=rudhery&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&include_all_commits=true&count_private=true&card_width=440" />
+<img height="165" src="https://github-readme-stats-ffso-rudherys-projects.vercel.app/api?username=rudhery&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&card_width=440" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rudhery&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
