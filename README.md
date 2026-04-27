@@ -24,14 +24,6 @@ Currently expanding into .NET, mobile development, and system design.
 
 ### Stack
 
-```yaml
-Frontend    Angular · TypeScript · JavaScript · HTML · CSS
-Mobile      Flutter · Dart
-Backend     C# · .NET · Go
-Database    MySQL · SQLite
-DevOps      Docker · Nginx · Git
-```
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,flutter,dart,go,cs,dotnet,mysql,sqlite,docker,git,github,nginx&perline=8" />
 </p>
