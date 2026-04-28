@@ -4,9 +4,9 @@
 
 # Rudhery Hotz
 
-**Front-end Engineer** &nbsp;·&nbsp; Angular &nbsp;·&nbsp; TypeScript
+**Full-stack Engineer** &nbsp;·&nbsp; Angular &nbsp;·&nbsp; C# / .NET
 
-<sub>Crafting modern, elegant interfaces with a focus on clean architecture.</sub>
+<sub>Building end-to-end web applications with clean architecture and care for detail.</sub>
 
 <br/>
 
@@ -16,9 +16,9 @@
 
 ### About
 
-I'm a 16-year-old engineer focused on the front-end craft — building real-world products with Angular and TypeScript. I care about clean architecture, attention to detail, and the quiet polish that separates good interfaces from great ones.
+I'm a 16-year-old full-stack engineer building real-world web applications with Angular and C# / .NET. I care about clean architecture, attention to detail, and the quiet polish that separates good systems from great ones.
 
-Currently expanding into .NET, mobile development, and system design.
+Currently expanding into mobile development and system design.
 
 ---
 
@@ -32,6 +32,7 @@ Currently expanding into .NET, mobile development, and system design.
 
 ### Currently
 
+- **Legacy modernization** — migrating a 10-year-old Pascal / Delphi system to web with C# and Angular
 - Delivery platform — web & mobile
 - ERP / business management system
 - Flutter mobile applications
@@ -71,7 +72,7 @@ Currently expanding into .NET, mobile development, and system design.
 
 <div align="center">
 
-Open to collaborations, opportunities, or front-end conversations.
+Open to collaborations, opportunities, or tech conversations.
 
 <br/>
 <br/>
