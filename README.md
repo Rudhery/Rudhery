@@ -40,34 +40,6 @@ Currently expanding into mobile development and system design.
 
 ---
 
-### Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats-ffso-rudherys-projects.vercel.app/api?username=rudhery&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rudhery&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats-ffso-rudherys-projects.vercel.app/api/top-langs?username=rudhery&layout=compact&hide_border=true&theme=github_dark&hide_title=true&langs_count=8" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudhery&theme=github_dark&utcOffset=-3" />
-
-</div>
-
----
-
-### Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudhery&theme=react-dark&hide_border=true&area=true&radius=8" />
-
-</div>
-
----
-
 ### Contact
 
 <div align="center">
@@ -83,10 +55,5 @@ Open to collaborations, opportunities, or tech conversations.
 <a href="https://github.com/rudhery">
   <img src="https://img.shields.io/badge/GitHub-%40rudhery-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=rudhery&label=Profile%20views&color=0e75b6&style=flat-square" />
 
 </div>
