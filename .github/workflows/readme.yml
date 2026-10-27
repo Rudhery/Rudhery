@@ -1,0 +1,37 @@
+name: Update README
+
+on:
+  schedule:
+    # A cada 6 horas: releases e downloads do Cay
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/update_readme.py
+      - .github/workflows/readme.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Atualizar README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_readme.py
+      - name: Commit se mudou
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: atualiza releases e downloads"
+          git push
