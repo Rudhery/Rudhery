@@ -42,7 +42,7 @@ Online ordering for restaurants, rebuilt from scratch. Each restaurant gets its 
 
 ### More projects
 
-- **[Cay](https://github.com/Rudhery/cay)**: a native Dynamic Island for Windows on raw Win32 and `Windows.UI.Composition`, <!-- cay-releases:start -->19<!-- cay-releases:end --> releases and <!-- cay-downloads:start -->476<!-- cay-downloads:end --> downloads
+- **[Cay](https://github.com/Rudhery/cay)**: a native Dynamic Island for Windows on raw Win32 and `Windows.UI.Composition`, <!-- cay-releases:start -->19<!-- cay-releases:end --> releases and <!-- cay-downloads:start -->496<!-- cay-downloads:end --> downloads
 - **[FolderHub](https://github.com/Rudhery/FolderHub)**: a folder is the configuration. A Windows 11 launcher that turns any folder of shortcuts into a visual hub
 - **[nudge](https://github.com/Rudhery/nudge)**: a self-hosted life hub that nudges you on WhatsApp about tasks, finances, and notes
 - **Legacy modernization**: moving a 10-year-old Pascal / Delphi system to the web with C# and Angular
