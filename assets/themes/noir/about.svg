@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+
+<rect width="1200" height="330" fill="#0c0c0c"></rect>
+
+<g class="f" style="animation-delay:.1s">
+<text x="22" y="64" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="40" letter-spacing="-1.4" fill="#f4f4f0">I ship software that companies</text>
+<text x="22" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="40" letter-spacing="-1.4" fill="#f4f4f0">use <tspan fill="#ff3b30">every day.</tspan></text></g>
+<g class="f" style="animation-delay:.3s">
+<text x="22" y="164" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="24" fill="#d4d4cf">I care about clean architecture, fast interfaces, and the quiet polish</text>
+<text x="22" y="196" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="24" fill="#d4d4cf">that separates good products from great ones.</text></g>
+<g class="f" style="animation-delay:.45s"><text x="22" y="252" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="3" fill="#a8a8a3">LATELY</text></g>
+
+<g class="f" style="animation-delay:0.55s"><rect x="130" y="241" width="11" height="11" fill="#ff3b30"></rect><text x="150" y="252" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing=".5" fill="#f4f4f0">Go on PostgreSQL</text></g><g class="f" style="animation-delay:0.65s"><rect x="340" y="241" width="11" height="11" fill="#3a3a3a"></rect><text x="360" y="252" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing=".5" fill="#f4f4f0">Angular with signals</text></g><g class="f" style="animation-delay:0.75s"><rect x="588" y="241" width="11" height="11" fill="#f4f4f0"></rect><text x="608" y="252" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing=".5" fill="#f4f4f0">Native Windows apps on the system compositor</text></g><g class="f" style="animation-delay:0.8500000000000001s"><rect x="130" y="277" width="11" height="11" fill="#f4f4f0"></rect><text x="150" y="288" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing=".5" fill="#f4f4f0">AI agents that work alongside people through APIs and MCP</text></g>
+<g class="pop" style="animation-delay:.2s"><circle cx="1080" cy="96" r="58" fill="#f4f4f0"></circle></g>
+<g class="pop" style="animation-delay:.35s"><rect class="spin" x="1006" y="128" width="40" height="40" fill="#3a3a3a"></rect></g>
+<filter id="g"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"></feTurbulence><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .6 0"></feColorMatrix></filter><rect width="1200" height="330" filter="url(#g)" opacity=".09"></rect>
+</svg>

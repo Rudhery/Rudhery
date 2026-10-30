@@ -1,60 +1,30 @@
-<a href="https://github.com/Rudhery"><img src="assets/header.svg" alt="Hi, I'm Rudhery Hotz. Full-stack engineer, 17. I build products end to end: backend, web, desktop, and the details in between." width="100%"/></a>
+<!-- Tema: troque com `python scripts/set_theme.py <noir|classic|acid|ocean|royal|terracotta>` -->
+<a href="https://github.com/Rudhery"><img src="assets/themes/noir/banner.svg" alt="Hi, I'm Rudhery Hotz. Full-stack engineer, 17. I build products end to end." width="100%"/></a>
 
 <p align="center">
-  <samp>
-    <a href="https://nextchat.nextsistem.dev.br">nextchat</a> &nbsp;·&nbsp;
-    <a href="https://deliveryfacil.net.br">delivery fácil</a> &nbsp;·&nbsp;
-    <a href="#more-projects">projects</a> &nbsp;·&nbsp;
-    <a href="#stack">stack</a> &nbsp;·&nbsp;
-    <a href="mailto:rudhery.hotz@outlook.com">email</a>
-  </samp>
+  <a href="https://nextchat.nextsistem.dev.br"><img src="assets/themes/noir/nav-nextchat.svg" alt="NextChat" height="40"/></a>
+  <a href="https://deliveryfacil.net.br"><img src="assets/themes/noir/nav-delivery.svg" alt="Delivery Fácil" height="40"/></a>
+  <a href="#more-projects"><img src="assets/themes/noir/nav-projects.svg" alt="Projects" height="40"/></a>
+  <a href="#stack"><img src="assets/themes/noir/nav-stack.svg" alt="Stack" height="40"/></a>
+  <a href="mailto:rudhery.hotz@outlook.com"><img src="assets/themes/noir/nav-email.svg" alt="Email" height="40"/></a>
 </p>
 
-<br/>
+<img src="assets/themes/noir/h-about.svg" alt="About" width="100%"/>
+<img src="assets/themes/noir/about.svg" alt="I ship software that companies use every day. I care about clean architecture, fast interfaces, and the quiet polish that separates good products from great ones. Lately: Go on PostgreSQL, Angular with signals, native Windows apps on the system compositor, and AI agents that work alongside people through APIs and MCP." width="100%"/>
 
-I'm a 17-year-old full-stack engineer shipping software that companies use every day. I care about clean architecture, fast interfaces, and the quiet polish that separates good products from great ones.
+<img src="assets/themes/noir/h-work.svg" alt="Selected work" width="100%"/>
+<a href="https://nextchat.nextsistem.dev.br"><img src="assets/themes/noir/nextchat.svg" alt="NextChat (private): one WhatsApp number, the whole team answering together. A multi-user platform with per-agent login, sectors and handoff, a built-in Kanban, scheduled messages, automations, and an integrations API with webhooks and an MCP server. 60+ releases, 90+ merged pull requests, 90 database migrations. Go, PostgreSQL, Angular, Tailwind, Electron, Astro." width="100%"/></a>
+<a href="https://deliveryfacil.net.br"><img src="assets/themes/noir/delivery.svg" alt="Delivery Fácil (private): online ordering for restaurants, rebuilt from scratch. Product builder, Pix checkout, coupons, loyalty, favorites, and live order tracking. 400+ commits on v2, 100+ merged pull requests, Angular 14 to 22. Angular 22, Tailwind, .NET 8, MySQL, Redis, RabbitMQ, SignalR, Pix." width="100%"/></a>
 
-- Building **NextChat**: 60+ releases, 90+ merged pull requests, and 90 database migrations, from the Go backend to the desktop app
-- Rebuilt **Delivery Fácil** from scratch with the team: 400+ commits and 100+ merged pull requests on v2, from Angular 14 to Angular 22
-- Lately: Go on PostgreSQL, Angular with signals, native Windows apps on the system compositor, and AI agents that work alongside people through APIs and MCP
+<a id="more-projects"></a>
+<img src="assets/themes/noir/h-more.svg" alt="More projects" width="100%"/>
+<a href="https://github.com/Rudhery/cay"><img src="assets/themes/noir/p-cay.svg" alt="Cay: a native Dynamic Island for Windows on raw Win32 and Windows.UI.Composition" width="100%"/></a>
+<a href="https://github.com/Rudhery/FolderHub"><img src="assets/themes/noir/p-folderhub.svg" alt="FolderHub: a Windows 11 launcher that turns any folder of shortcuts into a visual hub" width="100%"/></a>
+<a href="https://github.com/Rudhery/nudge"><img src="assets/themes/noir/p-nudge.svg" alt="nudge: a self-hosted life hub that nudges you on WhatsApp about tasks, finances, and notes" width="100%"/></a>
+<img src="assets/themes/noir/p-legacy.svg" alt="Legacy modernization: moving a 10-year-old Pascal / Delphi system to the web with C# and Angular" width="100%"/>
+<img src="assets/themes/noir/p-erp.svg" alt="ERP: a business management system" width="100%"/>
 
-<br/>
+<a id="stack"></a>
+<img src="assets/themes/noir/stack.svg" alt="Stack: Angular, TypeScript, Tailwind CSS, Vitest, Astro, Go, C# / .NET, Node.js, PostgreSQL, MySQL, Redis, SQLite, Electron, Win32, Flutter, Dart, Docker, Nginx, RabbitMQ, GitHub Actions, Sentry, Grafana, Claude, WhatsApp" width="100%"/>
 
-<a href="https://nextchat.nextsistem.dev.br"><img src="assets/nextchat.svg" alt="NextChat: one WhatsApp number, the whole team together" width="100%"/></a>
-
-**[NextChat](https://nextchat.nextsistem.dev.br)** &nbsp;·&nbsp; <sub>private repository</sub>
-
-One WhatsApp number, the whole team answering together. A multi-user platform with per-agent login, sectors and handoff, a built-in Kanban, scheduled messages, automations, and an integrations API with webhooks and an MCP server, so AI agents can take conversations and pass them back to the team.
-
-<sub><b>Go · PostgreSQL · Angular · Tailwind · Electron · Astro</b></sub>
-
-<br/>
-
-<a href="https://deliveryfacil.net.br"><img src="assets/delivery.svg" alt="Delivery Fácil v2: online ordering, rebuilt from scratch" width="100%"/></a>
-
-**[Delivery Fácil](https://deliveryfacil.net.br)** &nbsp;·&nbsp; <sub>private repository</sub>
-
-Online ordering for restaurants, rebuilt from scratch. Each restaurant gets its own store with a step-by-step product builder, Pix checkout, coupons, loyalty, favorites, and live order tracking, synced in real time with the restaurant's own system and a WhatsApp bot.
-
-<sub><b>Angular 22 · Tailwind · .NET 8 · MySQL · Redis · RabbitMQ · SignalR · Pix</b></sub>
-
-<br/>
-
-### More projects
-
-- **[Cay](https://github.com/Rudhery/cay)**: a native Dynamic Island for Windows on raw Win32 and `Windows.UI.Composition`, <!-- cay-releases:start -->19<!-- cay-releases:end --> releases and <!-- cay-downloads:start -->496<!-- cay-downloads:end --> downloads
-- **[FolderHub](https://github.com/Rudhery/FolderHub)**: a folder is the configuration. A Windows 11 launcher that turns any folder of shortcuts into a visual hub
-- **[nudge](https://github.com/Rudhery/nudge)**: a self-hosted life hub that nudges you on WhatsApp about tasks, finances, and notes
-- **Legacy modernization**: moving a 10-year-old Pascal / Delphi system to the web with C# and Angular
-- An **ERP / business management system**
-
-
-### Stack
-
-<img src="assets/stack.svg" alt="Stack: Frontend (Angular, TypeScript, Tailwind CSS, Vitest, Astro), Backend (Go, C# / .NET, Node.js), Database (PostgreSQL, MySQL, Redis, SQLite), Desktop & Mobile (Electron, Win32, Flutter, Dart), Infra & DevOps (Docker, Nginx, RabbitMQ, GitHub Actions, Sentry, Grafana), AI & Messaging (Claude, WhatsApp)" width="100%"/>
-
-<br/>
-
-<p align="center">
-  <sub>Open to collaborations, opportunities, or tech conversations: <a href="mailto:rudhery.hotz@outlook.com">rudhery.hotz@outlook.com</a></sub>
-</p>
+<a href="mailto:rudhery.hotz@outlook.com"><img src="assets/themes/noir/footer.svg" alt="Open to collaborations, opportunities, and tech conversations: rudhery.hotz@outlook.com" width="100%"/></a>

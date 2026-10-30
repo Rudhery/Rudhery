@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="144" viewBox="0 0 1200 144">
+
+<rect width="1200" height="144" fill="#0c0c0c"></rect>
+
+<g class="sy"><rect x="22" y="0" width="6" height="144" fill="#3a3a3a"></rect></g>
+<g class="f" style="animation-delay:.15s"><text x="56" y="62" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="44" fill="#3a3a3a">04</text></g>
+<g class="f" style="animation-delay:.25s"><text x="140" y="58" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="34" letter-spacing="-1" fill="#f4f4f0">FolderHub</text></g>
+<g class="f" style="animation-delay:.35s"><text x="141" y="90" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" fill="#d4d4cf">A folder is the configuration. A Windows 11 launcher that turns any</text><text x="141" y="114" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" fill="#d4d4cf">folder of shortcuts into a visual hub.</text></g>
+<g class="f" style="animation-delay:.45s"><text x="1178" y="56" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="2.5" fill="#a8a8a3">WINDOWS 11</text></g>
+<line x1="140" x2="1178" y1="143" y2="143" stroke="#262626"></line>
+<filter id="g"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"></feTurbulence><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .6 0"></feColorMatrix></filter><rect width="1200" height="144" filter="url(#g)" opacity=".09"></rect>
+</svg>

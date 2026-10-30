@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+
+<rect width="1200" height="110" fill="#0c0c0c"></rect>
+
+<g class="sx"><rect x="22" y="92" width="1156" height="2" fill="#262626"></rect></g>
+<g class="f"><text x="22" y="68" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="48" letter-spacing="-1.8" fill="#f4f4f0">Selected work</text></g>
+<g class="f" style="animation-delay:.15s"><text x="391" y="68" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="26" fill="#a8a8a3">shipped and in production</text></g>
+<g class="f" style="animation-delay:.25s"><text x="1178" y="68" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="2" fill="#a8a8a3">§ 02</text></g>
+<filter id="g"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"></feTurbulence><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .6 0"></feColorMatrix></filter><rect width="1200" height="110" filter="url(#g)" opacity=".09"></rect>
+</svg>

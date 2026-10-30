@@ -30,7 +30,7 @@ jobs:
         run: python scripts/update_readme.py
       - name: Commit se mudou
         run: |
-          git diff --quiet README.md && exit 0
+          git diff --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -am "chore: atualiza releases e downloads"
